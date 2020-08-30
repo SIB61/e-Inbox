@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">18702864055-vf3edmioes8ov41ufntdv8f9kml4o5dv.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://einbox-3e443.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">18702864055</string>
+    <string name="google_api_key" translatable="false">AIzaSyC4w-yDNEr10JZgD37EYoL6LhDCxhj87kw</string>
+    <string name="google_app_id" translatable="false">1:18702864055:android:f118afb35cd8c11d7f4732</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC4w-yDNEr10JZgD37EYoL6LhDCxhj87kw</string>
+    <string name="google_storage_bucket" translatable="false">einbox-3e443.appspot.com</string>
+    <string name="project_id" translatable="false">einbox-3e443</string>
+</resources>
